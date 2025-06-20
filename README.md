@@ -83,7 +83,9 @@ To launch the **QWERTY-Braille Autocorrect System**, follow these steps:
 pip install streamlit
 
 # 2. Run the application
-streamlit run QWERTY-Braille-Autocorrect-App.py
----
+streamlit run QWERTY-Braille.py  #for english
+
+streamlit run QWERTY-Braille-en-hn.py  #for hindi+english
+
 
 
