@@ -69,6 +69,21 @@ Each character's Braille input is sorted and converted to a consistent format so
 * 📲 Mobile-friendly UI
 * 🧩 Integrate OCR for Braille image recognition
 
-
-
+---
 > "Making accessibility mainstream through code."
+
+---
+
+## 📦 How to Run
+
+To launch the **QWERTY-Braille Autocorrect System**, follow these steps:
+
+```bash
+# 1. Install dependencies
+pip install streamlit
+
+# 2. Run the application
+streamlit run QWERTY-Braille-Autocorrect-App.py
+---
+
+
